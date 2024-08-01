@@ -1,11 +1,9 @@
 
-### 한시간 만에 끝내는 React.js 입문
-### 개발자의품격
-### https://www.youtube.com/watch?v=6GECT2Jrr_g&list=PLqbWuGdVBJd1PYk1jEfrB0WV1XjYo1KWX&index=1
+# 한시간 만에 끝내는 React.js 입문
+# 개발자의품격
+# https://www.youtube.com/watch?v=6GECT2Jrr_g&list=PLqbWuGdVBJd1PYk1jEfrB0WV1XjYo1KWX&index=1
 
-
-
-
+=============================================
 
 # Getting Started with Create React App
 
